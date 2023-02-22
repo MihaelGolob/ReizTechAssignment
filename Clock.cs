@@ -1,9 +1,10 @@
 ﻿namespace ReizTechAssignment; 
 
 public class Clock {
-    public static void Main() {
-        GetInput();
-    }
+    // uncomment this method to run the program
+    // public static void Main() {
+    //     GetInput();
+    // }
     
     private static void GetInput() {
         Console.WriteLine("Enter the hour (0 - 11): ");
