@@ -1,0 +1,15 @@
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\bin\Debug\net7.0\ReizTechAssignment.exe
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\bin\Debug\net7.0\ReizTechAssignment.deps.json
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\bin\Debug\net7.0\ReizTechAssignment.runtimeconfig.json
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\bin\Debug\net7.0\ReizTechAssignment.dll
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\bin\Debug\net7.0\ReizTechAssignment.pdb
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.csproj.AssemblyReference.cache
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.AssemblyInfoInputs.cache
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.AssemblyInfo.cs
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.dll
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\refint\ReizTechAssignment.dll
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.pdb
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ReizTechAssignment.genruntimeconfig.cache
+C:\Users\Mihael\Documents\.NET Applications\ReizTechAssignment\obj\Debug\net7.0\ref\ReizTechAssignment.dll
